@@ -7,3 +7,5 @@ usage:
 ```python biliDecode.py [filename]```
 
 or drag the video file into the .exe
+
+P.S. In case of the large file size, the program reads 10MB at most each time. You can change it by editing  ```block_size``` 
